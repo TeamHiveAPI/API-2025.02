@@ -1,7 +1,7 @@
-[submodule "API-2025.02-FRONT"]
+[submodule "FRONT-END"]
     path = API-2025.02-FRONT
     url = https://github.com/TeamHiveAPI/API-2025.02-FRONT
 
-[submodule "API-2025.02-BACK"]
+[submodule "BACK-END"]
     path = API-2025.02-BACK
     url = https://github.com/TeamHiveAPI/API-2025.02-BACK
