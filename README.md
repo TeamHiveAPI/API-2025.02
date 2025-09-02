@@ -1,17 +1,18 @@
-<div style="display: flex; align-items: center; gap: 50px; width: 100%; max-width: 1000px; margin: 0 auto;">
+<!-- Logo + títulos -->
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d6263e54-8e7d-4358-9417-a58c240254cc" width="200" align="left">
+</p>
 
-  <!-- Imagem à esquerda -->
-  <img src="https://github.com/user-attachments/assets/d6263e54-8e7d-4358-9417-a58c240254cc" alt="logo do team hive" style="width: 200px; height: 200px; flex-shrink: 0;">
+<!-- Títulos em Markdown (fora do <p>) -->
+### API 5º Semestre DSM  
+### Aplicativo do Almoxarifado Militar  
+### Team HIVE  
 
-  <!-- Textos à direita -->
-  <div style="flex-grow: 1; text-align: left;">
-    <h1>API 5º Semestre DSM</h1>
-    <h2>Aplicativo do Almoxarifado Militar</h2>
-    <h2>Team HIVE</h2>
-  </div>
+<br>
+<br>
+<br>
 
-</div>
-
+<!-- Links centralizados -->
 <p align="center">
   | <a href="#desafio">Desafio</a> |
   <a href="#solucao">Solução</a> |   
@@ -23,6 +24,7 @@
   <a href="#manual">Manual de Instalação</a> |
   <a href="#equipe">Equipe</a> |
 </p>
+
 
 ## 🛠️ Tecnologias <a id="tecnologias"></a>
 
@@ -93,4 +95,4 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 | <a href="https://github.com/ErikaDias2"> <img src="https://avatars.githubusercontent.com/ErikaDias2" alt="fotoperfil" width="50"></a> | Erika Dias Ribeiro | DEV Team | <a href="https://github.com/erikadias2004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/erika-dias-ribeiro-608359266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <a href="https://github.com/DiogoPalharini"> <img src="https://avatars.githubusercontent.com/DiogoPalharini" alt="fotoperfil" width="50"></a> | Diogo Palharini | Product Owner | <a href="https://github.com/DiogoPalharini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/diogo-palharini-10b803275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <a href="https://github.com/ojuansoares"><img src="https://avatars.githubusercontent.com/ojuansoares" alt="fotoperfil" width="50"></a> | Juan Garcia Soares | DEV Team | <a href="https://github.com/ojuansoares"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/ojuansoares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| <a href="https://github.com/Gabriel4SS"><img src="https://avatars.githubusercontent.com/Gabriel4SS" alt="fotoperfil" width="50"></a> | Gabriel Santos | DEV Team | <a href="https://github.com/Gabriel4SS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/ojuansoares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <a href="https://github.com/Gabriel4SS"><img src="https://avatars.githubusercontent.com/Gabriel4SS" alt="fotoperfil" width="50"></a> | Gabriel Santos | DEV Team | <a href="https://github.com/Gabriel4SS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
