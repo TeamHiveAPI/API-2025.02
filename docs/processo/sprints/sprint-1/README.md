@@ -15,28 +15,11 @@
 <!-- Links centralizados -->
 <p align="center">
   | <a href="#desafio">Desafio</a> |
-  <a href="#solucao">Solução</a> |   
-  <a href="#backlog">Backlog do Produto</a> |
+  <a href="#backlog">Backlog da Sprint</a> |
   <a href="#dor">DoR</a> |
   <a href="#dod">DoD</a> |
-  <a href="#sprint">Cronograma de Sprints</a> |
-  <a href="#tecnologias">Tecnologias</a> |
-  <a href="#manual">Manual de Instalação</a> |
-  <a href="#equipe">Equipe</a> |
+  <a href="equipe">Equipe</a> |
 </p>
-
-
-## 🛠️ Tecnologias <a id="tecnologias"></a>
-
-<h4 align="center">
- <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
- <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
- <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
- <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
- <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
- <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
- <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-</h4>
 
 ## 🎯 Desafio <a id="desafio"></a>
 
@@ -48,55 +31,49 @@ Leitura por QR Code: agilizando entradas e saídas de materiais de forma automá
 
 Interface intuitiva: design limpo, responsivo e de fácil uso, tanto em smartphones quanto em tablets.
 
-## 🎯 Solução <a id="solucao"></a>
-
-A solução proposta é um sistema simples e eficiente que centraliza o controle do almoxarifado em um único aplicativo. Ele permitirá cadastrar novos itens ou reabastecer estoque, registrar pedidos de forma rápida, gerar e ler QR Codes automaticamente e acompanhar o inventário em tempo real. Com isso, o almoxarifado terá mais organização, previsibilidade de consumo, transparência e redução de erros no processo de gestão de materiais.
-
 ---
 
-## 📋 Backlog do Produto <a id="backlog"></a>
+## 📋 Backlog da Primeira Sprint <a id="backlog"></a>
 
 ⏳ Em desenvolvimento
 
 ---
 
-## 🏁 ‍DoR - Definition of Ready <a id="dor"></a>
+> **📌 Status da sprint:** ⏳ *Em desenvolvimento*  
 
+---
 
-* ✅ User Story escrita com **critérios de aceitação claros**  
-* ✅ Subtarefas criadas a partir da **User Story**  
-* ✅ **Design pronto** no Figma 
-* ✅ **Modelagem do Banco de Dados** definida  
-* ✅ **Fluxo de rotas** documentado  
-* ✅ Dados de cliente **estruturados/vetorizados** (quando aplicável)  
+## 🏁 DoR - Definition of Ready <a id="dor"></a>
+
+| Critério                       | Descrição                                                                                   |
+|--------------------------------|---------------------------------------------------------------------------------------------|
+| Clareza na Descrição           | A User Story segue o formato: *“Como [persona], quero [ação] para que [objetivo]”*.         |
+| Critérios de Aceitação Definidos | A história contém critérios claros e objetivos para determinar quando pode ser considerada concluída. |
+| Compreensão Compartilhada      | Toda a equipe, incluindo PO e desenvolvedores, entende o propósito da história.             |
+| Estimável                      | A história foi pontuada no Planning Poker ou possui uma estimativa definida.                |
+| Documentos de Apoio            | Quando necessário, mockups, fluxos ou modelos de dados estão anexados ou referenciados.     |
+| Critérios Técnicos Acordados   | As necessidades de Frontend e Backend foram claramente separadas (quando aplicável).        |
+| Dependências Mapeadas          | Todas as dependências externas (APIs, integrações, aprovações) estão identificadas e planejadas. |
+| Priorização Definida           | A história possui prioridade clara no backlog e está alinhada ao valor de negócio.          |
+
+---
 
 ## ✅ DoD - Definition of Done <a id="dod"></a>
 
-* ✅ **Manual de Usuário** disponível  
-* ✅ **Manual da Aplicação** documentado  
-* ✅ **Documentação da API** atualizada  
-* ✅ **Código completo e revisado**  
-* ✅ **Vídeos e documentos de entrega** (explicando ou demonstrando cada etapa)  
+| Critério                          | Descrição                                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------------------------|
+| Critérios de Aceitação Atendidos  | Todos os cenários de teste foram executados e aprovados pela equipe.                      |
+| Código Revisado                   | O código foi revisado e aprovado por outro membro da equipe (QA ou desenvolvedor).         |
+| Documentação Interna Atualizada   | API, estrutura de dados, endpoints e demais pontos relevantes foram atualizados.           |
+| Integração com Outras Partes Testadas | As interfaces entre Frontend e Backend foram validadas.                                |
+| Validação do PO                   | O Product Owner aprovou a entrega com base nos critérios previamente definidos.            |
+| Performance e Segurança Checadas  | A solução atende critérios mínimos de desempenho e segurança acordados pela equipe.        |
+| Sem Débito Técnico Pendente       | Não há código provisório ou tarefas técnicas deixadas para depois (*no TODOs*).            |
+
 
 ---
 
-## 🗓️ Cronograma de Sprints <a id="sprint"></a>
-
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🐝 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1](./docs/processo/sprints/sprint-1/README.md) |
-| 🐝 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2](./docs/processo/sprints/sprint-2/README.md) |
-| 🐝 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3](./docs/processo/sprints/sprint-3/README.md) |
-
----
-
-## 📖 Manual de Instalação <a id="manual"></a>
-
-⏳ Em desenvolvimento
-
----
-
-## 👷🏻 Time de Desenvolvimento <a id="equipe"></a>
+## 👷🏻 Time de Desenvolvimento da Primeira Sprint <a id="equipe"></a>
 
 | Foto | Nome | Função | Github | LinkedIn |
 | :--: | :----: | :--: | :----: | :------: |
@@ -106,3 +83,5 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 | <a href="https://github.com/DiogoPalharini"> <img src="https://avatars.githubusercontent.com/DiogoPalharini" alt="fotoperfil" width="50"></a> | Diogo Palharini | Product Owner | <a href="https://github.com/DiogoPalharini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/diogo-palharini-10b803275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <a href="https://github.com/ojuansoares"><img src="https://avatars.githubusercontent.com/ojuansoares" alt="fotoperfil" width="50"></a> | Juan Garcia Soares | DEV Team | <a href="https://github.com/ojuansoares"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/ojuansoares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <a href="https://github.com/Gabriel4SS"><img src="https://avatars.githubusercontent.com/Gabriel4SS" alt="fotoperfil" width="50"></a> | Gabriel Santos | DEV Team | <a href="https://github.com/Gabriel4SS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+
+
