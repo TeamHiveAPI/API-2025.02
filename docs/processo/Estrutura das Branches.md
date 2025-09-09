@@ -8,8 +8,8 @@ O fluxo de desenvolvimento do projeto segue uma organização baseada em **branc
 
 1. **Branches de Atividade**
    - Cada tarefa da sprint deve ser desenvolvida em uma branch específica.  
-   - Nome da branch: `##<número-da-task>-<descrição>`  
-     - Exemplo: `##1-criar-botao`
+   - Nome da branch: `#<número-da-task>-<descrição>`  
+     - Exemplo: `#1-criar-botao`
    - Após concluir a atividade, o desenvolvedor abre um **Pull Request (PR)** para a branch `dev`.
 
 2. **Branch de Desenvolvimento (dev)**

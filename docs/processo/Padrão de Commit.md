@@ -29,19 +29,19 @@ Para manter a **consistência** e a **clareza** no repositório, todos os commit
 ## 📝 Exemplos de Commits
 
 ```bash
-fix: #045 corrigindo erro de null pointer no cadastro de usuário
+fix: #45 corrigindo erro de null pointer no cadastro de usuário
 ```
 ```bash
-feat: #078 implementando upload de imagens no perfil
+feat: #78 implementando upload de imagens no perfil
 ```
 ```bash
 docs: #101 atualizando guia de instalação no README
 ```
 ```bash
-style: #056 ajustando indentação e removendo espaços desnecessários
+style: #56 ajustando indentação e removendo espaços desnecessários
 ```
 ```bash
-refactor: #089 melhorando performance da consulta no banco
+refactor: #89 melhorando performance da consulta no banco
 ```
 ---
 
