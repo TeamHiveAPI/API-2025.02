@@ -56,7 +56,45 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-⏳ Em desenvolvimento
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1 | Alta | Como usuário, desejo fazer login no sistema para acessar minhas funcionalidades. | 3 | Sprint 1 |
+| 2 | Alta | Como usuário, desejo registrar um novo pedido de material para solicitar itens necessários. | 5 | Sprint 1 |
+| 3 | Alta | Como usuário, desejo agendar uma consulta (médica ou odontológica) para cuidar da minha saúde. | 4 | Sprint 1 |
+| 4 | Alta | Como usuário, desejo visualizar e gerenciar meu perfil para manter minhas informações atualizadas. | 2 | Sprint 1 |
+| 5 | Alta | Como usuário, desejo receber notificações sobre o status dos meus pedidos e agendamentos para me manter informado. | 4 | Sprint 1 |
+| 6 | Alta | Como soldado, desejo visualizar um painel de controle simples com o status dos meus pedidos e próximas consultas para ter uma visão rápida. | 3 | Sprint 1 |
+| 7 | Alta | Como soldado, desejo acompanhar o histórico e o status detalhado dos meus pedidos para saber o andamento. | 4 | Sprint 1 |
+| 8 | Alta | Como gestor, desejo aprovar ou rejeitar pedidos pendentes do meu setor, com a opção de adicionar justificativa para rejeição. | 4 | Sprint 1 |
+| 9 | Alta | Como gestor de almoxarifado, desejo consultar o estoque geral, incluindo lotes e validades, para ter controle dos materiais. | 4 | Sprint 1 |
+| 10 | Alta | Como gestor de almoxarifado, desejo cadastrar a entrada de novos produtos com lote e data de vencimento para manter o inventário atualizado. | 3 | Sprint 1 |
+| 11 | Alta | Como gestor de farmácia, desejo gerenciar o estoque de medicamentos com foco crítico em lote e data de vencimento para garantir a segurança. | 5 | Sprint 1 |
+| 12 | Alta | Como gestor de farmácia, desejo receber alertas automáticos de medicamentos próximos ao vencimento para evitar perdas. | 4 | Sprint 1 |
+| 13 | Alta | Como gestor odontológico, desejo gerenciar o estoque de insumos odontológicos, controlando lote e validade. | 4 | Sprint 1 |
+| 14 | Média | Como soldado, desejo consultar o estoque disponível para solicitação de materiais antes de fazer um pedido. | 3 | Sprint 1 |
+| 15 | Média | Como gestor de almoxarifado, desejo cadastrar novos tipos de produtos no catálogo para expandir as opções disponíveis. | 3 | Sprint 1 |
+| 16 | Média | Como gestor de almoxarifado, desejo definir níveis de estoque mínimo e máximo por item para receber alertas. | 3 | Sprint 1 |
+| 17 | Média | Como gestor de farmácia, desejo registrar a entrega (dispensação) de medicamentos a um paciente para controle. | 3 | Sprint 1 |
+| 18 | Média | Como gestor de farmácia, desejo cadastrar novos medicamentos no sistema para manter o catálogo atualizado. | 3 | Sprint 1 |
+| 19 | Média | Como gestor odontológico, desejo registrar procedimentos e materiais utilizados por paciente para histórico. | 4 | Sprint 1 |
+| 20 | Média | Como gestor odontológico, desejo cadastrar novos insumos no catálogo de odontologia. | 3 | Sprint 1 |
+| 21 | Alta | Como gestor de farmácia, desejo aprovar ou cancelar agendamentos de consultas médicas para organizar a agenda. | 3 | Sprint 2 |
+| 22 | Alta | Como gestor odontológico, desejo aprovar ou cancelar agendamentos de consultas odontológicas. | 3 | Sprint 2 |
+| 23 | Média | Como soldado, desejo visualizar meu histórico unificado de agendamentos (médicos e odonto) para ter controle das minhas consultas. | 3 | Sprint 2 |
+| 24 | Média | Como soldado, desejo anexar documentos (receitas, atestados) aos meus agendamentos para facilitar o processo. | 3 | Sprint 2 |
+| 25 | Média | Como soldado, desejo consultar meu histórico de medicamentos recebidos e tratamentos odontológicos realizados para referência. | 3 | Sprint 2 |
+| 26 | Alta | Como gestor, desejo acessar um Painel de Controle Analítico com IA para visualizar gráficos de movimentação e alertas de validade do meu setor. | 5 | Sprint 3 |
+| 27 | Alta | Como administrador, desejo visualizar o Painel de Controle Analítico com IA em uma visão global, podendo filtrar e comparar dados de todos os setores. | 5 | Sprint 3 |
+| 28 | Alta | Como administrador, desejo cadastrar novos usuários no sistema. | 3 | Sprint 3 |
+| 29 | Alta | Como administrador, desejo ativar/inativar usuários para gerenciar o acesso sem perder o histórico. | 3 | Sprint 3 |
+| 30 | Alta | Como administrador, desejo gerenciar vínculos e patentes, atribuindo usuários a perfis de acesso e módulos de gestão específicos. | 4 | Sprint 3 |
+| 31 | Alta | Como administrador, desejo acessar Logs de Auditoria completos para rastreabilidade total das ações no sistema. | 5 | Sprint 3 |
+| 32 | Média | Como usuário, desejo recuperar minha senha caso a esqueça. | 2 | Sprint 3 |
+| 33 | Média | Como gestor, desejo que o Dashboard com IA identifique padrões de sazonalidade de consumo dos itens do meu setor para otimizar o estoque. | 6 | Sprint 3 |
+| 34 | Média | Como gestor, desejo que o Dashboard com IA preveja futuras tendências de estoque para o meu módulo para auxiliar no planejamento. | 5 | Sprint 3 |
+| 35 | Média | Como gestor, desejo que o Dashboard com IA sugira ajustes nos níveis de estoque mínimo/máximo para melhorar a gestão. | 4 | Sprint 3 |
+| 36 | Média | Como gestor, desejo gerar e exportar relatórios específicos do meu módulo de gestão (Estoque, Farmácia ou Odonto). | 4 | Sprint 3 |
+| 37 | Média | Como administrador, desejo redefinir senhas de usuários para auxiliar no acesso. | 2 | Sprint 3 |
 
 ---
 
