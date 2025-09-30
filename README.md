@@ -68,19 +68,19 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 | 8 | Alta | Como gestor de almoxarifado, desejo consultar o estoque geral, incluindo lotes e validades, para ter controle dos materiais. | 4 | Sprint 1 |
 | 9 | Alta | Como gestor de almoxarifado, desejo cadastrar a entrada de novos produtos com lote e data de vencimento para manter o inventário atualizado. | 3 | Sprint 1 |
 | 10 | Alta | Como gestor de farmácia, desejo gerenciar o estoque de medicamentos com foco crítico em lote e data de vencimento para garantir a segurança. | 5 | Sprint 1 |
-| 11 | Alta | Como gestor odontológico, desejo gerenciar o estoque de insumos odontológicos, controlando lote e validade. | 4 | Sprint 1 |
-| 12 | Média | Como usuário, desejo consultar o estoque disponível para solicitação de materiais antes de fazer um pedido. | 3 | Sprint 1 |
-| 13 | Média | Como gestor de almoxarifado, desejo cadastrar novos tipos de produtos no catálogo para expandir as opções disponíveis. | 3 | Sprint 1 |
-| 14 | Média | Como gestor de farmácia, desejo registrar a entrega (dispensação) de medicamentos a um paciente para controle. | 3 | Sprint 1 |
-| 15 | Média | Como gestor de farmácia, desejo cadastrar novos medicamentos no sistema para manter o catálogo atualizado. | 3 | Sprint 1 |
-| 16 | Média | Como gestor odontológico, desejo registrar procedimentos e materiais utilizados por paciente para histórico. | 4 | Sprint 1 |
-| 17 | Média | Como gestor odontológico, desejo cadastrar novos insumos no catálogo de odontologia. | 3 | Sprint 1 |
-| 18 | Alta | Como usuário, desejo agendar uma consulta (médica ou odontológica) para cuidar da minha saúde. | 4 | Sprint 2 |
-| 19 | Alta | Como gestor de farmácia, desejo aprovar ou cancelar agendamentos de consultas médicas para organizar a agenda. | 3 | Sprint 2 |
-| 20 | Alta | Como gestor odontológico, desejo aprovar ou cancelar agendamentos de consultas odontológicas. | 3 | Sprint 2 |
-| 21 | Média | Como usuário, desejo visualizar meu histórico unificado de agendamentos (médicos e odonto) para ter controle das minhas consultas. | 3 | Sprint 2 |
-| 22 | Média | Como usuário, desejo anexar documentos (receitas, atestados) aos meus agendamentos para facilitar o processo. | 3 | Sprint 2 |
-| 23 | Média | Como usuário, desejo consultar meu histórico de medicamentos recebidos e tratamentos odontológicos realizados para referência. | 3 | Sprint 2 |
+| 11 | Média | Como usuário, desejo consultar o estoque disponível para solicitação de materiais antes de fazer um pedido. | 3 | Sprint 1 |
+| 12 | Média | Como gestor de almoxarifado, desejo cadastrar novos tipos de produtos no catálogo para expandir as opções disponíveis. | 3 | Sprint 1 |
+| 13 | Média | Como gestor de farmácia, desejo registrar a entrega (dispensação) de medicamentos a um paciente para controle. | 3 | Sprint 1 |
+| 14 | Média | Como gestor de farmácia, desejo cadastrar novos medicamentos no sistema para manter o catálogo atualizado. | 3 | Sprint 1 |
+| 15 | Alta | Como usuário, desejo agendar uma consulta (médica ou odontológica) para cuidar da minha saúde. | 4 | Sprint 2 |
+| 16 | Alta | Como gestor de farmácia, desejo aprovar ou cancelar agendamentos de consultas médicas para organizar a agenda. | 3 | Sprint 2 |
+| 17 | Alta | Como gestor odontológico, desejo aprovar ou cancelar agendamentos de consultas odontológicas. | 3 | Sprint 2 |
+| 18 | Alta | Como gestor odontológico, desejo gerenciar o estoque de insumos odontológicos, controlando lote e validade. | 4 | Sprint 2 |
+| 19 | Média | Como usuário, desejo visualizar meu histórico unificado de agendamentos (médicos e odonto) para ter controle das minhas consultas. | 3 | Sprint 2 |
+| 20 | Média | Como usuário, desejo anexar documentos (receitas, atestados) aos meus agendamentos para facilitar o processo. | 3 | Sprint 2 |
+| 21 | Média | Como usuário, desejo consultar meu histórico de medicamentos recebidos e tratamentos odontológicos realizados para referência. | 3 | Sprint 2 |
+| 22 | Média | Como gestor odontológico, desejo registrar procedimentos e materiais utilizados por paciente para histórico. | 4 | Sprint 2 |
+| 23 | Média | Como gestor odontológico, desejo cadastrar novos insumos no catálogo de odontologia. | 3 | Sprint 2 |
 | 24 | Alta | Como gestor de farmácia, desejo receber alertas automáticos de medicamentos próximos ao vencimento para evitar perdas. | 4 | Sprint 3 |
 | 25 | Média | Como gestor de almoxarifado, desejo definir níveis de estoque mínimo e máximo por item para receber alertas. | 3 | Sprint 3 |
 | 26 | Alta | Como gestor, desejo acessar um Painel de Controle Analítico com IA para visualizar gráficos de movimentação e alertas de validade do meu setor. | 5 | Sprint 3 |
