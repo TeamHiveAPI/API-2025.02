@@ -74,13 +74,13 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 | 6 | Alta | Como tenente de almoxarifado, desejo consultar o estoque geral, incluindo lotes e validades, para ter controle dos materiais. | 2 | 01 |
 | 7 | Alta | Como tenente de almoxarifado, desejo cadastrar a entrada de novos produtos com lote e data de vencimento para manter o inventário atualizado. | 3 | 01 |
 | 8 | Alta | Como tenente de farmácia, desejo gerenciar o estoque de medicamentos com foco crítico em lote e data de vencimento para garantir a segurança. | 3 | 01 |
-| 9 | Alta | Como tenente odontológico, desejo gerenciar o estoque de insumos odontológicos, controlando lote e validade. | 3 | 01 |
+| 9 | Alta | Como usuário, desejo fazer modificações rápidas de estoque de um item via escaneamento de QR Code. | 5 | 01 |
 | 10 | Média | Como usuário, desejo consultar o estoque disponível para solicitação de materiais antes de fazer um pedido. | 1 | 01 |
 | 11 | Média | Como tenente de almoxarifado, desejo cadastrar novos tipos de produtos no catálogo para expandir as opções disponíveis. | 5 | 01 |
 | 12 | Média | Como tenente de farmácia, desejo cadastrar novos medicamentos no sistema para manter o catálogo atualizado. | 5 | 01 |
-| 13 | Média | Como tenente odontológico, desejo cadastrar novos insumos no inventário de odontologia. | 5 | 01 |
-| 14 | Alta | Como usuário, desejo fazer modificações rápidas de estoque de um item via escaneamento de QR Code. | 5 | 01 |
-| 15 | Média | Como tenente de almoxarifado, desejo definir níveis de estoque mínimo de itens para auxiliar as predições do Dashboard de IA. | 1 | 01 |
+| 13 | Média | Como tenente de almoxarifado, desejo definir níveis de estoque mínimo de itens para auxiliar as predições do Dashboard de IA. | 1 | 01 |
+| 14 | Alta | Como tenente odontológico, desejo gerenciar o estoque de insumos odontológicos, controlando lote e validade. | 3 | 02 |
+| 15 | Média | Como tenente odontológico, desejo cadastrar novos insumos no inventário de odontologia. | 5 | 02 |
 | 16 | Alta | Como coronel, desejo visualizar e gerenciar perfis (meu, de tenentes e de soldados) para manter as informações atualizadas. | 8 | 02 |
 | 17 | Média | Como tenente de farmácia, desejo registrar a entrega (dispensação) de medicamentos a um paciente para controle. | 8 | 02 |
 | 18 | Média | Como tenente odontológico, desejo registrar procedimentos e materiais utilizados por paciente para histórico. | 8 | 02 |
