@@ -19,6 +19,7 @@
   <a href="#dor">DoR</a> |
   <a href="#dod">DoD</a> |
   <a href="equipe">Equipe</a> |
+  <a href="burndown">Burndown</a> |
 </p>
 
 ## 🎯 Desafio <a id="desafio"></a>
@@ -35,11 +36,28 @@ Interface intuitiva: design limpo, responsivo e de fácil uso, tanto em smartpho
 
 ## 📋 Backlog da Primeira Sprint <a id="backlog"></a>
 
-⏳ Em desenvolvimento
-
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|------|------------|------------|------------|--------|
+| 1 | Alta | Como usuário, desejo fazer login no sistema para acessar as funcionalidades. | 3 | 01 |
+| 2 | Alta | Como usuário, desejo registrar pedidos para solicitar itens necessários. | 8 | 01 |
+| 3 | Alta | Como usuário, desejo fazer pesquisa de itens via QR Code para agilizar minha busca. | 3 | 01 |
+| 4 | Alta | Como usuário, desejo acompanhar o histórico e o status detalhado dos meus pedidos para saber o andamento. | 2 | 01 |
+| 5 | Alta | Como tenente, desejo aprovar ou rejeitar pedidos pendentes do meu setor, com a opção de adicionar justificativa para rejeição. | 3 | 01 |
+| 6 | Alta | Como tenente de almoxarifado, desejo consultar o estoque geral, incluindo lotes e validades, para ter controle dos materiais. | 2 | 01 |
+| 7 | Alta | Como tenente de almoxarifado, desejo cadastrar a entrada de novos produtos com lote e data de vencimento para manter o inventário atualizado. | 3 | 01 |
+| 8 | Alta | Como tenente de farmácia, desejo gerenciar o estoque de medicamentos com foco crítico em lote e data de vencimento para garantir a segurança. | 3 | 01 |
+| 9 | Alta | Como usuário, desejo fazer modificações rápidas de estoque de um item via escaneamento de QR Code. | 5 | 01 |
+| 10 | Média | Como usuário, desejo consultar o estoque disponível para solicitação de materiais antes de fazer um pedido. | 1 | 01 |
+| 11 | Média | Como tenente de almoxarifado, desejo cadastrar novos tipos de produtos no catálogo para expandir as opções disponíveis. | 5 | 01 |
+| 12 | Média | Como tenente de farmácia, desejo cadastrar novos medicamentos no sistema para manter o catálogo atualizado. | 5 | 01 |
+| 13 | Média | Como tenente de almoxarifado, desejo definir níveis de estoque mínimo de itens para auxiliar as predições do Dashboard de IA. | 1 | 01 |
 ---
 
-> **📌 Status da sprint:** ⏳ *Em desenvolvimento*  
+> **📌 Status da sprint:** ✅ Concluída
+> 
+## 📉 Burdown da primeira sprint <a id="burndown"></a>
+
+![Burndown Sprint 1](../../../images/burndown_sprint1.jpeg)
 
 ---
 
