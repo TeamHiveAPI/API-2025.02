@@ -39,8 +39,8 @@ Interface intuitiva: design limpo, responsivo e de fácil uso, tanto em smartpho
 | Aspecto | Valor |
 |---------|-------|
 | **Capacidade estimada da Equipe por Sprint** | 18 Story Points |
-| **Meta da Sprint** | User Stories de prioridade Alta (total de 29 Story Points) |
-| **Previsão da Sprint (extras, sem compromisso de entrega)** | User Stories de prioridade Média (32 Story Points) |
+| **Meta da Sprint** | User Stories de prioridade Alta (total de 21 Story Points) |
+| **Previsão da Sprint (extras, sem compromisso de entrega)** | User Stories de prioridade Média (19 Story Points) |
 
 ### 📊 Reunião de Planejamento
 - **Data:** 06/10/2024
@@ -53,17 +53,13 @@ Interface intuitiva: design limpo, responsivo e de fácil uso, tanto em smartpho
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 1 | **Alta** | Como tenente odontológico, desejo gerenciar o estoque de insumos odontológicos, controlando lote e validade. | 3 | 2 |
-| 2 | **Alta** | Como coronel, desejo visualizar e gerenciar perfis (meu, de tenentes e de soldados) para manter as informações atualizadas. | 8 | 2 |
-| 3 | **Alta** | Como usuário, desejo agendar uma consulta (médica ou odontológica) para cuidar da minha saúde. | 8 | 2 |
-| 4 | **Alta** | Como tenente de farmácia, desejo aprovar ou cancelar agendamentos de consultas médicas para organizar a agenda. | 5 | 2 |
-| 5 | **Alta** | Como tenente odontológico, desejo aprovar ou cancelar agendamentos de consultas odontológicas. | 5 | 2 |
-| 6 | **Média** | Como tenente odontológico, desejo cadastrar novos insumos no inventário de odontologia. | 5 | 2 |
-| 7 | **Média** | Como tenente de farmácia, desejo registrar a entrega (dispensação) de medicamentos a um paciente para controle. | 8 | 2 |
-| 8 | **Média** | Como tenente odontológico, desejo registrar procedimentos e materiais utilizados por paciente para histórico. | 8 | 2 |
-| 9 | **Média** | Como usuário, desejo visualizar meu histórico unificado de agendamentos (médicos e odonto) para ter controle das minhas consultas. | 5 | 2 |
-| 10 | **Média** | Como usuário, desejo anexar documentos (receitas, atestados) aos meus agendamentos para facilitar o processo. | 3 | 2 |
-| 11 | **Média** | Como usuário, desejo consultar meu histórico de medicamentos recebidos e tratamentos odontológicos realizados para referência. | 3 | 2 |
+| 1 | **Alta** | Como coronel, desejo visualizar e gerenciar perfis (meu, de tenentes e de soldados) para manter as informações atualizadas. | 8 | 2 |
+| 2 | **Alta** | Como usuário, desejo agendar uma consulta médica para cuidar da minha saúde. | 8 | 2 |
+| 3 | **Alta** | Como tenente de farmácia, desejo aprovar ou cancelar agendamentos de consultas médicas para organizar a agenda. | 5 | 2 |
+| 4 | **Média** | Como tenente de farmácia, desejo registrar a entrega (dispensação) de medicamentos a um paciente para controle. | 8 | 2 |
+| 5 | **Média** | Como usuário, desejo visualizar meu histórico de agendamentos médicos para ter controle das minhas consultas. | 5 | 2 |
+| 6 | **Média** | Como usuário, desejo anexar documentos (receitas, atestados) aos meus agendamentos para facilitar o processo. | 3 | 2 |
+| 7 | **Média** | Como usuário, desejo consultar meu histórico de medicamentos recebidos para referência. | 3 | 2 |
 
 ---
 
@@ -125,21 +121,21 @@ Para cada User Story estar considerada **CONCLUÍDA**, deve atender **TODOS** os
 
 ### 🎯 Critérios Específicos Sprint 2
 
-#### Para Módulo Odontológico:
-- [ ] Sistema de controle de lote e validade funcional
-- [ ] Histórico de procedimentos por paciente implementado
-- [ ] Catálogo de insumos odontológicos completo
-
-#### Para Sistema de Agendamentos:
+#### Para Sistema de Agendamentos Médicos:
 - [ ] Calendário integrado com disponibilidade
 - [ ] Fluxo de aprovação/cancelamento funcional
 - [ ] Notificações automáticas implementadas
-- [ ] Histórico unificado de consultas
+- [ ] Histórico de consultas médicas
 
 #### Para Gestão de Perfis:
 - [ ] CRUD completo de usuários
 - [ ] Sistema de permissões hierárquico
 - [ ] Interface administrativa responsiva
+
+#### Para Dispensação de Medicamentos:
+- [ ] Controle de estoque de medicamentos
+- [ ] Registro de dispensação por paciente
+- [ ] Histórico de medicamentos dispensados
 
 ### 📋 Status DoD - Sprint 2
 
