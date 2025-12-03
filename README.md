@@ -2,54 +2,26 @@
 
 <p align="center">
   <a href="#desafio">Desafio</a> |
+  <a href="#solucao">Solução</a> |
   <a href="#tecnologias">Tecnologias</a> |
-  <a href="#solucao">Solução</a> |   
   <a href="#backlog">Backlog Sprint 2</a> |
   <a href="#cronograma">Cronograma de Sprints</a> |
-  <a href="#manual">Manual de Instalação</a> |
   <a href="#time">Time</a>
 </p>
-
-<br>
-<span id="tecnologias">
-  
-## 🛠️ Tecnologias
-
-<h4>
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  </a>
-  <a href="https://supabase.com/">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </a>
-  <a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  </a>
-</h4>
-
 
 <br>
 <span id="desafio">
 
 ## 📖 Desafio
 
-O projeto trata-se do desenvolvimento de um aplicativo para gestão do almoxarifado militar de múltiplos setores. Atualmente, o processo de controle de materiais é burocrático e suscetível a falhas, dificultando a organização, rastreabilidade e agilidade no atendimento das demandas. Essa dificuldade gera retrabalho, perda de tempo e risco de falta de materiais essenciais. Para resolver isso, o aplicativo precisa oferecer três pontos principais:
+O projeto trata-se do desenvolvimento de um aplicativo para gestão do almoxarifado militar de múltiplos setores. Atualmente, o processo de controle de materiais é burocrático e suscetível a falhas, dificultando a organização, rastreabilidade e agilidade no atendimento das demandas. Essa dificuldade gera retrabalho, perda de tempo e risco de falta de materiais essenciais. Para resolver isso, o aplicativo oferece as seguintes funcionalidades:
 
-Cadastro de materiais: inserção e atualização de itens com informações completas.
+<br>
 
-Leitura por QR Code: agilizando entradas e saídas de materiais de forma automática e segura.
+<img src="docs/images/funcionalidades.png" />
 
-Interface intuitiva: design limpo, responsivo e de fácil uso, tanto em smartphones quanto em tablets.
-
+<br>
+<br>
 <br>
 <span id="solucao">
 
@@ -57,6 +29,19 @@ Interface intuitiva: design limpo, responsivo e de fácil uso, tanto em smartpho
 
 A solução proposta é um sistema simples e eficiente que centraliza o controle do almoxarifado em um único aplicativo. Ele permitirá cadastrar novos itens ou reabastecer estoque, registrar pedidos de forma rápida, gerar e ler QR Codes automaticamente e acompanhar o inventário em tempo real. Com isso, o almoxarifado terá mais organização, previsibilidade de consumo, transparência e redução de erros no processo de gestão de materiais.
 
+<img src="docs/images/ilustracao.png" />
+
+<br>
+<br>
+<br>
+<span id="tecnologias">
+  
+## 🛠️ Tecnologias
+
+<img src="docs/images/tecnologias.png" />
+
+<br>
+<br>
 <br>
 <span id="backlog">
 
@@ -101,21 +86,20 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 | 35 | Média | Como tenente, desejo que o Dashboard com IA preveja futuras tendências de estoque para o meu módulo para auxiliar no planejamento. | 13 | 03 |
 | 36 | Média | Como tenente, desejo que o Dashboard com IA sugira ajustes nos níveis de estoque mínimo para melhorar a gestão. | 5 | 03 |
 | 37 | Baixa | Como tenente, desejo gerar e exportar relatórios específicos do meu módulo de gestão (Estoque ou Farmácia). | 2 | 03 |
-| 38 | Baixa | Como coronel, desejo redefinir senhas de usuários para recuperar o acesso de contas de tenentes e soldados. | 2 | 03 |
 
 ---
 
 ### 📊 Resumo por Sprint
 
-* **Sprint 1:** 13 User Stories (Total: **44 pontos**)
-* **Sprint 2:** 15 User Stories (Total: **86 pontos**)
-* **Sprint 3:** 10 User Stories (Total: **60 pontos**)
+| Sprint | User Stories | Pontos | Documentação |
+|--------|-------------|--------|--------------|
+| **01** | 13 | 44 | [Sprint 1](./docs/processo/sprints/sprint-1/README.md) |
+| **02** | 15 | 86 | [Sprint 2](./docs/processo/sprints/sprint-2/README.md) |
+| **03** | 10 | 58 | [Sprint 3](./docs/processo/sprints/sprint-3/README.md) |
 
-Para visualizar documentação detalhada de cada sprint, acesse:
-- [Sprint 1](./docs/processo/sprints/sprint-1/README.md)
-- [Sprint 2](./docs/processo/sprints/sprint-2/README.md)
-- [Sprint 3](./docs/processo/sprints/sprint-3/README.md)
 
+<br>
+<br>
 <br>
 <span id="cronograma">
 
@@ -123,17 +107,14 @@ Para visualizar documentação detalhada de cada sprint, acesse:
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🐝 **SPRINT 01** | 08/09 - 28/09 | [Sprint 1](./docs/processo/sprints/sprint-1/README.md) |
-| 🐝 **SPRINT 02** | 06/10 - 26/10 | [Sprint 2](./docs/processo/sprints/sprint-2/README.md) |
-| 🐝 **SPRINT 03** | 03/11 - 23/11 | [Sprint 3](./docs/processo/sprints/sprint-3/README.md) |
+| **01** | 08/09 - 28/09 | [Sprint 1](./docs/processo/sprints/sprint-1/README.md) |
+| **02** | 06/10 - 26/10 | [Sprint 2](./docs/processo/sprints/sprint-2/README.md) |
+| **03** | 03/11 - 23/11 | [Sprint 3](./docs/processo/sprints/sprint-3/README.md) |
+
+<img src="docs/images/tecnologias.png" />
 
 <br>
-<span id="manual">
-
-## 📖 Manual de Instalação
-
-⏳ Em desenvolvimento
-
+<br>
 <br>
 <span id="time">
 
