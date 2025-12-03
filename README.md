@@ -111,8 +111,6 @@ A solução proposta é um sistema simples e eficiente que centraliza o controle
 | **02** | 06/10 - 26/10 | [Sprint 2](./docs/processo/sprints/sprint-2/README.md) |
 | **03** | 03/11 - 23/11 | [Sprint 3](./docs/processo/sprints/sprint-3/README.md) |
 
-<img src="docs/images/tecnologias.png" />
-
 <br>
 <br>
 <br>
