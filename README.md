@@ -42,7 +42,7 @@
 
 ## 📖 Desafio
 
-O projeto trata-se do desenvolvimento de um aplicativo para gestão do almoxarifado militar. Atualmente, o processo de controle de materiais é burocrático e suscetível a falhas, dificultando a organização, rastreabilidade e agilidade no atendimento das demandas. Essa dificuldade gera retrabalho, perda de tempo e risco de falta de materiais essenciais. Para resolver isso, o aplicativo precisa oferecer três pontos principais:
+O projeto trata-se do desenvolvimento de um aplicativo para gestão do almoxarifado militar de múltiplos setores. Atualmente, o processo de controle de materiais é burocrático e suscetível a falhas, dificultando a organização, rastreabilidade e agilidade no atendimento das demandas. Essa dificuldade gera retrabalho, perda de tempo e risco de falta de materiais essenciais. Para resolver isso, o aplicativo precisa oferecer três pontos principais:
 
 Cadastro de materiais: inserção e atualização de itens com informações completas.
 
